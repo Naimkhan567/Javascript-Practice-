@@ -1,0 +1,5 @@
+console.log('I am naim khan')
+console.log('my roll number is 82')
+console.log('my roll number' + 30)
+console.log(9 + 9)
+console.log('9' + 9)

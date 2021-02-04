@@ -1,0 +1,13 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+h1{
+    color: #720;
+    position: absolute;
+    bottom: 40%;
+    left: 40%;
+    margin: 0;
+    padding: 0;
+
+}
